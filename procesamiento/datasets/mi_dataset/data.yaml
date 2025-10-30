@@ -1,0 +1,5 @@
+train: C:/Users/citla/Desktop/procesamiento/procesamiento/datasets/mi_dataset/images/train
+val: C:/Users/citla/Desktop/procesamiento/procesamiento/datasets/mi_dataset/images/val
+
+nc: 2  # número de clases
+names: ['persona', 'gato']  # nombres de las clases

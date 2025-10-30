@@ -1,0 +1,15 @@
+# Model weights and training results
+runs/
+*.pt
+
+# Cache files
+*.cache
+
+# Virtual environment
+venv/
+__pycache__/
+*.pyc
+
+# System files
+.DS_Store
+Thumbs.db
